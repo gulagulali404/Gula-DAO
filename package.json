@@ -1,11 +1,21 @@
 {
   "name": "gula-dao",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulagulali404/Gula-DAO"
+  },
+  "keywords": [
+    "next-js"
+  ],
+  "author": "gulagulali404",
+  "license": "ISC",
+  "dependencies": {
+    "ksni-technical-test": "^1.1.2"
+  }
 }
