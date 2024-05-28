@@ -97,4 +97,4 @@ Gula DAO is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 - [@rasyidra](https://github.com/rasyidra)
 - [@Kuri12345](https://github.com/Kuri12345)
 - [@n0nam301](https://github.com/n0nam301)
-- [0xprune](https://github.com/prune0x)
+- [@0xprune](https://github.com/0xprune)
